@@ -35,6 +35,7 @@ int main(int argc, const char* argv[]) {
     return 0;
 }
 
+
 // p.353 2¹ø ¹®Á¦
 int main() {
     int num;

@@ -56,6 +56,6 @@ int main() {
         cout << "1000 ÁßÀÇ " << wins << "½Â¸®" << endl;
         cout << "ÀÌ±ä È®·ü = " << wins / 10.0 << endl;
         cout << "Æò±Õ º£ÆÃ È½¼ö = " << bets / 1000.0 << endl;
-
-        return 0;
     }
+    return 0;
+}
